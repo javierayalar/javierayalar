@@ -1,6 +1,7 @@
-### Hi there 👋
-Hi there! I'm  
-Multidisciplinary data scientist 
+## Hi there, I'm Javier Ayala 👋👨‍💻
+
+## 🔧 Technologies & Tools
+
 <!--
 **javierayalar/javierayalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
