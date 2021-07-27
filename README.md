@@ -2,44 +2,7 @@
 
 # 🔧 Technologies & Tools
 
-Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
 
-
-Visual Studio Code
-
-Atom
-
-Android Studio
-
-Spring Boot
-
-Bootstrap
-
-Gradle
-
-Java
-
-Python
-
-Kotlin
-
-HTML5
-
-CSS3
-
-Sass
-
-JavaScript
-
-SQL
-
-MySQL
-
-Git
-
-GitHub
-
-Terminal
 
 
 
