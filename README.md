@@ -1,6 +1,11 @@
 ## Hi there, I'm Javier Ayala 👋👨‍💻
 
-## 🔧 Technologies & Tools
+# 🔧 Technologies & Tools
+
+Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
+
+
+
 
 <!--
 **javierayalar/javierayalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
